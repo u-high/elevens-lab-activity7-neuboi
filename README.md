@@ -32,4 +32,4 @@ of the cardIndexes method to determine what list will be returned. Complete the 
 below by filling in the elements of the returned list, and by showing how those values index
 cards. Note that the returned list may have less than 9 elements.
 
-![My image](bsimps3.github.com/Elevens-Lab-Activity7/image.jpg)
+![My image](https://bsimps3.github.io/Elevens-Lab-Activity7/cards.png)

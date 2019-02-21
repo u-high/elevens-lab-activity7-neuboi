@@ -33,3 +33,20 @@ below by filling in the elements of the returned list, and by showing how those 
 cards. Note that the returned list may have less than 9 elements.
 
 ![My image](https://bsimps3.github.io/Elevens-Lab-Activity7/cards.png)
+
+d. Complete the following printCards method to print all of the elements of cards that are
+indexed by cIndexes.
+    public static printCards(ElevensBoard board) {
+    List<Integer> cIndexes = board.cardIndexes();
+            /* Your code goes here. */
+  
+  
+  
+  
+  
+    }
+  
+  
+  e. Which one of the methods that you identified in question 4b above needs to call the
+      cardIndexes method before calling the containsPairSum11 and containsJQK
+      methods? Why?
